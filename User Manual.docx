@@ -1,0 +1,58 @@
+User Manual:
+
+Users need to install our Android Application by running our code in eclipse or installing our Apk.
+Users need to store our training sequence files in their Data folder.
+Users need to turn on Bluetooth, GPS , Internet and Sensor Tag Device before starting this application.
+Please wait for 30 secs to train all gestures.
+Then start using application with the below controls.
+
+Gesture Controls in our Application:
+
+Gesture / Activity
+Main Activity
+Game View Menu
+2048 Game
+Got 2 run Menu
+Got 2 Run Game
+Report View Menu
+Hungry
+Hungry Alert
+
+Up
+Play Now
+Resume
+Line Chart View
+Thirsty
+Thirsty Alert
+Got2Run Menu
+Left
+Setting Menu
+Pause
+
+Emergency
+Emergency
+Alert
+2048 game
+Right
+
+Jump
+Recent Locations and Duration 
+Game / stomp
+Game Menu
+
+Down
+High Score
+Restart Game
+
+Exit
+Report Menu
+Back to Main menu
+Back to Game View Menu
+Back to Game View Menu
+Back to Got 2 Run Game Menu
+
+
+
+
+
+

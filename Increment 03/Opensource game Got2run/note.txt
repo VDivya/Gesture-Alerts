@@ -1,0 +1,22 @@
+To run this apps on pc
+
+1.move this folder "Thegot2run" to Your Default Workspace.
+
+2.Open eclipse and then 
+File>>Import>>Existing Projects into Workspace
+>>Select The root directory>>Finish
+
+3.Run MainActivity.java file from eclipse which is in "src" folder.
+
+
+
+OR 
+
+Watch this video : https://www.youtube.com/watch?v=pdhhygWLCn8
+
+
+
+last updated on 3/6/2014
+
+-High score page added
+-High score on gameover

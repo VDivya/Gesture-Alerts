@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tirumala/Desktop/bdproject/achartengine-1.1.0-demo-source/libs/achartengine-1.1.0.jar"/>
+	<classpathentry kind="src" path="/AChartEngineDemo"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tirumala/Documents/androidworkspace/FlappyCowConnectionservice/libs/jahmm-0.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tirumala/Desktop/desktop/Assignments and Homeworks/bigdata/newworkspace/google-play-services_lib/libs/google-play-services.jar"/>
+	<classpathentry exported="true" kind="src" path="/Thegot2run"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

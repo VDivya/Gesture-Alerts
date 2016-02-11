@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Gesture</string>
+    <string name="add_values">Add values to the chart</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="add">Add</string>
+    <string name="new_series">New series</string>
+    <string name="title_activity_about">MainActivity</string>
+    <string name="title_activity_game">Game</string>
+    <string name="play">Play Now...</string>
+    <string name="set">Setting</string>
+    <string name="ex">Exit</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="vol">Volume</string>
+    <string name="test">test</string>
+    <string name="title_activity_highscore">Highscore</string>
+    <string name="hs">Highscore :</string>
+    <string name="score">HighScore</string>
+    <string name="title_activity_game_view">Game_view</string>
+    <string name="header">2048</string>
+    <string name="new_game">New Game</string>
+    <string name="high_score">HIGH SCORE</string>
+    <string name="instructions">&#160;&#160;Join the numbers and get to the 2048 title.</string>
+    <string name="you_win">You Win!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="go_on">Tap to Continue</string>
+    <string name="for_now">For now&#8230;</string>
+    <string name="endless">"Endless" Mode</string>
+    <string name="title_activity_bar_graph">BarGraph</string>
+    <string name="title_activity_piechart">Piechart</string>
+    <string name="title_activity_report">Report</string>
+    <string name="str_tv_title">Pie Chart of Gestures</string>
+    <string name="title_activity_report_view">Report_view</string>
+
+</resources>

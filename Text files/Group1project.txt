@@ -1,0 +1,1078 @@
+hungry		29 Jul 2014 06:27:29 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 06:27:29 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:27:36 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 06:27:36 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:27:40 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 06:27:40 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:27:42 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 06:27:42 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:27:46 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 06:27:46 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:27:51 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 06:27:51 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:27:55 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 06:27:55 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:28:00 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 06:28:00 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 06:28:01 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Games Service Called		29 Jul 2014 06:28:01 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 06:28:03 GMT	209 Brush Creek Blvd, Kansas City, United States	
+2048 game starts	29 Jul 2014 06:28:03 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:28:16 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:28:20 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 06:28:24 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:28:26 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:28:28 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 06:28:28 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:28:38 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:28:41 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+game		29 Jul 2014 06:28:45 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+2048 game starts	29 Jul 2014 06:28:46 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:28:56 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:28:59 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:29:01 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:29:09 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:29:45 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 06:29:47 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 06:29:49 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:29:52 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:29:54 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:29:56 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 06:29:57 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:30:00 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+Games Service End Called		29 Jul 2014 06:30:00 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+game		29 Jul 2014 06:39:52 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+`Games Service Called		29 Jul 2014 06:39:52 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+game		29 Jul 2014 06:39:58 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+2048 game starts	29 Jul 2014 06:39:58 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+game		29 Jul 2014 06:40:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 06:40:12 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:40:18 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:40:20 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 06:40:20 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 06:40:24 GMT	209 Brush Creek Blvd, Kansas City, United States	
+2048 game starts	29 Jul 2014 06:40:24 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:40:29 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:40:30 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:40:33 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:40:38 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:40:41 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:40:45 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:40:49 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 06:40:52 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:40:57 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:41:00 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:41:03 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 06:41:03 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:41:08 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 06:41:09 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:41:27 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:41:32 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 06:41:37 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:41:40 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:41:43 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 06:41:46 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The Got2Run Game Starts 	29 Jul 2014 06:41:46 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:41:52 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:41:54 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:41:57 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:41:59 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:42:02 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:42:07 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:42:11 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:42:14 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+hungry		29 Jul 2014 06:42:17 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:42:20 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+game		29 Jul 2014 06:42:37 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:42:46 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+game		29 Jul 2014 06:42:49 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:42:53 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:42:59 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+hungry		29 Jul 2014 06:43:01 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:43:03 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:43:05 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:43:09 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+The Got2Run Ends 	29 Jul 2014 06:43:09 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:43:14 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+Games Service End Called		29 Jul 2014 06:43:15 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+exit		29 Jul 2014 06:43:33 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 06:43:33 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 06:43:35 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 06:43:39 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+hungry		29 Jul 2014 06:43:40 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+game		29 Jul 2014 06:43:43 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+emergency		29 Jul 2014 07:28:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 07:28:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 07:28:12 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 07:28:12 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 07:32:35 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 07:32:55 GMT	Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 07:35:44 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 07:35:45 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 07:35:51 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 07:35:51 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+exit		29 Jul 2014 07:35:54 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 07:35:54 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 07:35:58 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 07:36:16 GMT	209 Emanuel Cleaver II Blvd, Kansas City, United States	
+game		29 Jul 2014 08:09:48 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Games Service Called		29 Jul 2014 08:09:48 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 08:09:49 GMT	209 Brush Creek Blvd, Kansas City, United States	
+2048 game starts	29 Jul 2014 08:09:50 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:09:55 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 08:09:55 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 08:09:59 GMT	209 Brush Creek Blvd, Kansas City, United States	
+2048 game starts	29 Jul 2014 08:09:59 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 08:10:02 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:10:07 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:10:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 08:10:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:10:13 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 08:10:17 GMT	209 Brush Creek Blvd, Kansas City, United States	
+2048 game starts	29 Jul 2014 08:10:17 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:10:23 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:10:26 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:10:29 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 08:10:33 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 08:10:37 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 08:10:42 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 08:10:47 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:10:55 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:10:58 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 08:11:01 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 08:11:04 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:11:06 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 08:11:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:11:13 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:11:16 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 08:11:16 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:11:22 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 08:11:26 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 08:11:26 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 08:11:30 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:11:34 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:11:39 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:11:43 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 08:11:48 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The Got2Run Game Starts 	29 Jul 2014 08:11:49 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:11:55 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:11:57 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:11:59 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 08:12:02 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 08:12:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 08:12:07 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 08:12:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 08:12:12 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:12:17 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 08:12:19 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 08:12:22 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 08:12:23 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:12:26 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:12:28 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:13:00 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 08:13:00 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 08:16:48 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:17:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 08:17:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:17:10 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 08:17:10 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:17:13 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 08:17:13 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:23:15 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 08:23:15 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:24:37 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 08:24:37 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:24:41 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 08:24:41 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 08:42:17 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 08:42:17 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 08:42:21 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 08:42:21 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:02:49 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 09:02:50 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:02:53 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:03:07 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:03:12 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Games Service Called		29 Jul 2014 09:03:14 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The Got2Run Game Starts 	29 Jul 2014 09:05:01 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:06:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 09:06:10 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:06:11 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 09:06:11 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:06:16 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 09:06:17 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:06:30 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 09:06:30 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:06:31 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 09:06:32 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:06:37 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 09:06:37 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:06:45 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:06:46 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 09:06:46 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:06:52 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 09:06:52 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:06:54 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 09:07:55 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 09:07:55 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 09:11:02 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 09:11:02 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:11:08 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 09:11:08 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:11:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 09:11:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:11:16 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 09:11:17 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:11:21 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 09:11:21 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 09:11:24 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Games Service Called		29 Jul 2014 09:11:25 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 09:11:34 GMT	209 Brush Creek Blvd, Kansas City, United States	
+2048 game starts	29 Jul 2014 09:11:34 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 09:11:47 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:11:50 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 09:11:53 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:11:56 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 09:11:56 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:12:00 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 09:12:00 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:12:06 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:12:10 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The Got2Run Ends 	29 Jul 2014 09:12:10 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 09:12:13 GMT	209 Brush Creek Blvd, Kansas City, United States	
+2048 game starts	29 Jul 2014 09:12:13 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:12:21 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:12:26 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:12:31 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:12:36 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:12:40 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:12:43 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:12:46 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:12:49 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 09:12:51 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 09:12:54 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 09:13:00 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:13:02 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 09:13:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:13:07 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:13:09 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:13:12 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:13:17 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:13:19 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:13:23 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:13:25 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 09:13:26 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:13:29 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 09:13:29 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:13:35 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:13:39 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 09:13:43 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The Got2Run Game Starts 	29 Jul 2014 09:13:43 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:13:47 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:13:48 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:13:51 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:13:53 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:13:56 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:13:59 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 09:14:02 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:14:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		29 Jul 2014 09:14:08 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:14:10 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:14:13 GMT	209 Brush Creek Blvd, Kansas City, United States	
+game		29 Jul 2014 09:14:27 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:14:34 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:14:40 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:14:45 GMT	209 Brush Creek Blvd, Kansas City, United States	
+The Got2Run Ends 	29 Jul 2014 09:14:45 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:14:48 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Games Service End Called		29 Jul 2014 09:14:48 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 09:15:06 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 09:15:06 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:15:25 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:16:01 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 09:16:03 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:18:52 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:18:58 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 09:19:03 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 10:36:37 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 10:40:38 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 10:40:39 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 10:43:29 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 10:43:29 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 10:43:31 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 10:43:31 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 10:43:32 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 10:43:33 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 10:43:34 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 10:43:35 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 10:47:01 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 10:47:01 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 10:47:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 10:47:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 10:47:08 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 10:53:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 10:53:05 GMT	209 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 10:53:08 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 10:53:08 GMT	209 Brush Creek Blvd, Kansas City, United States	
+exit		29 Jul 2014 10:53:11 GMT	209 Brush Creek Blvd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 10:53:11 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 10:53:13 GMT	209 Brush Creek Blvd, Kansas City, United States	
+thirsty		29 Jul 2014 10:58:33 GMT	209 Brush Creek Blvd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 11:06:31 GMT	205 Brush Creek Blvd, Kansas City, United States	
+emergency		29 Jul 2014 17:32:30 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:32:30 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:32:32 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:32:32 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:32:58 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:32:58 GMT	31 E 52nd St, Kansas City, United States	
+hungry		29 Jul 2014 17:33:02 GMT	31 E 52nd St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:33:02 GMT	31 E 52nd St, Kansas City, United States	
+hungry		29 Jul 2014 17:33:07 GMT	31 E 52nd St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:33:07 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 17:33:13 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:33:13 GMT	31 E 52nd St, Kansas City, United States	
+hungry		29 Jul 2014 17:33:15 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:33:15 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:33:18 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:33:19 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:33:21 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:33:21 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:33:22 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:33:23 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:33:26 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:33:26 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:33:27 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:33:28 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:33:29 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:33:29 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:33:32 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:33:32 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:33:39 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:33:39 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:33:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:33:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:33:48 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:33:48 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:33:50 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:33:50 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:33:52 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:33:52 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:33:55 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:33:55 GMT	5100 Rockhill Rd, Kansas City, United States	
+game		29 Jul 2014 17:34:01 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Games Service Called		29 Jul 2014 17:34:01 GMT	5100 Rockhill Rd, Kansas City, United States	
+game		29 Jul 2014 17:34:10 GMT	5100 Rockhill Rd, Kansas City, United States	
+2048 game starts	29 Jul 2014 17:34:10 GMT	5100 Rockhill Rd, Kansas City, United States	
+game		29 Jul 2014 17:34:21 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:34:23 GMT	31 E 52nd St, Kansas City, United States	
+hungry		29 Jul 2014 17:34:25 GMT	31 E 52nd St, Kansas City, United States	
+exit		29 Jul 2014 17:34:29 GMT	31 E 52nd St, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 17:34:29 GMT	31 E 52nd St, Kansas City, United States	
+exit		29 Jul 2014 17:34:31 GMT	31 E 52nd St, Kansas City, United States	
+Games Service End Called		29 Jul 2014 17:34:31 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 17:34:35 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:34:35 GMT	31 E 52nd St, Kansas City, United States	
+thirsty		29 Jul 2014 17:34:37 GMT	31 E 52nd St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:34:37 GMT	31 E 52nd St, Kansas City, United States	
+thirsty		29 Jul 2014 17:34:42 GMT	31 E 52nd St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:34:42 GMT	31 E 52nd St, Kansas City, United States	
+thirsty		29 Jul 2014 17:34:46 GMT	31 E 52nd St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:34:47 GMT	31 E 52nd St, Kansas City, United States	
+thirsty		29 Jul 2014 17:34:48 GMT	31 E 52nd St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:34:48 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 17:34:50 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:34:50 GMT	31 E 52nd St, Kansas City, United States	
+game		29 Jul 2014 17:34:58 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Games Service Called		29 Jul 2014 17:34:58 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:35:00 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:35:02 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:35:05 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:36:53 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:46:29 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:46:29 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:46:50 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:46:51 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:47:21 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:47:22 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:47:23 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:51:29 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:51:29 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:52:12 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 17:52:13 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:52:20 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 17:52:20 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:52:27 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:52:27 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:52:31 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:52:31 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:52:33 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 17:52:34 GMT	5100 Rockhill Rd, Kansas City, United States	
+game		29 Jul 2014 17:52:36 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Games Service Called		29 Jul 2014 17:52:37 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:52:40 GMT	5100 Rockhill Rd, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 17:52:41 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:52:44 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:52:48 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 17:52:51 GMT	5100 Rockhill Rd, Kansas City, United States	
+game		29 Jul 2014 17:52:53 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:52:58 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 17:53:00 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:53:03 GMT	5100 Rockhill Rd, Kansas City, United States	
+The Got2Run Game Starts 	29 Jul 2014 17:53:03 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 17:53:06 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:53:09 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 17:53:12 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:53:18 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 17:53:21 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:06:21 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 18:06:21 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:06:24 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:06:56 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 18:06:57 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:07:00 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:09:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 18:09:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:09:49 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 18:09:49 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:09:53 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:09:55 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 18:09:56 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 18:09:59 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 18:10:01 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:10:03 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 18:10:04 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 18:10:06 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:10:10 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:10:13 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:10:17 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:10:19 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 18:10:20 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 18:13:30 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 18:13:31 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 18:13:33 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 18:13:34 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 18:13:37 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 18:13:37 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:13:39 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 18:13:39 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:13:41 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 18:13:42 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:13:45 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 18:13:45 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 18:17:23 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:17:32 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:17:35 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:17:38 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 18:17:39 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 18:22:00 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 18:22:01 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:22:06 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 18:22:06 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:22:09 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 18:22:10 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:22:19 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 18:22:27 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:22:32 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:22:35 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:22:38 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 18:22:38 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 18:22:40 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 18:22:40 GMT	5100 Rockhill Rd, Kansas City, United States	
+game		29 Jul 2014 18:22:43 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Games Service Called		29 Jul 2014 18:22:44 GMT	5100 Rockhill Rd, Kansas City, United States	
+game		29 Jul 2014 18:22:47 GMT	5100 Rockhill Rd, Kansas City, United States	
+2048 game starts	29 Jul 2014 18:22:47 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 18:22:50 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:22:54 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 18:22:58 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:23:00 GMT	5100 Rockhill Rd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 18:23:00 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:23:05 GMT	5100 Rockhill Rd, Kansas City, United States	
+Games Service End Called		29 Jul 2014 18:23:06 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 18:23:08 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Report Service Called		29 Jul 2014 18:23:09 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 19:04:40 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:04:40 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 19:04:49 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:04:50 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:04:52 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 19:04:52 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:04:55 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:04:56 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 19:05:00 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:05:00 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 19:05:09 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:05:09 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 19:05:12 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:05:12 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 19:05:18 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:05:19 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 19:05:21 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 19:05:21 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:05:24 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:05:28 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:05:29 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:05:32 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:05:36 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:05:40 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:05:45 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:26:35 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 19:26:35 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:26:41 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:26:41 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:26:43 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:26:43 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:26:46 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:26:47 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 19:26:51 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 19:26:51 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:26:59 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:27:02 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:27:05 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:27:09 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:27:14 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:27:17 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:27:22 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:27:24 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:27:28 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:27:31 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:27:32 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:28:43 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 19:28:43 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:28:45 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:28:45 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 19:28:47 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 19:28:47 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 19:28:51 GMT	5100 Holmes St, Kansas City, United States	
+2048 game starts	29 Jul 2014 19:28:51 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:28:59 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:00 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:02 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:07 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:10 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:29:11 GMT	5100 Holmes St, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 19:29:12 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:24 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:29:28 GMT	5100 Holmes St, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 19:29:28 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:30 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:32 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:34 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:39 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:29:42 GMT	5100 Holmes St, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 19:29:42 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:45 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:49 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:52 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:29:54 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:30:09 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:30:12 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:30:30 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:30:30 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:30:32 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:30:32 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:30:35 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:30:35 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:31:26 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:31:33 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:32:07 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:33:31 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:33:36 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:33:39 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:33:40 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:33:42 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:33:48 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:33:50 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:33:53 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:35:10 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:35:10 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:35:12 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:35:12 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:35:15 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:35:15 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 19:35:17 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 19:35:18 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:35:23 GMT	5100 Holmes St, Kansas City, United States	
+2048 game starts	29 Jul 2014 19:35:23 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:35:27 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:35:30 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 19:35:32 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:35:36 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:35:38 GMT	5100 Holmes St, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 19:35:38 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:35:41 GMT	5100 Holmes St, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 19:35:42 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:35:46 GMT	5100 Holmes St, Kansas City, United States	
+The Got2Run Game Starts 	29 Jul 2014 19:35:46 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:35:51 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:35:53 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:35:57 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:36:00 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:36:03 GMT	5100 Holmes St, Kansas City, United States	
+The Got2Run Ends 	29 Jul 2014 19:36:04 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:36:06 GMT	5100 Holmes St, Kansas City, United States	
+Games Service End Called		29 Jul 2014 19:36:06 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 19:36:09 GMT	5100 Holmes St, Kansas City, United States	
+`Report Service Called		29 Jul 2014 19:36:09 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:36:14 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:36:22 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:36:26 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:37:28 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:37:29 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:37:36 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:37:36 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:37:39 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:37:39 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 19:37:52 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 19:37:52 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:39:23 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 19:39:23 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:39:26 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:39:26 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 19:39:29 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 19:39:29 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:55:12 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 19:55:13 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:55:15 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 19:55:15 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 19:55:17 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 19:55:17 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:04:12 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:04:12 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:04:15 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:04:15 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:14:06 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:14:07 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:14:18 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:14:19 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:14:21 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:14:21 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:14:51 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:14:51 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:14:54 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:14:54 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:15:00 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:15:00 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:15:02 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:15:02 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:15:03 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:15:03 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:15:28 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:15:28 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:15:30 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:15:30 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:15:35 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:15:35 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:15:37 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:15:37 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:15:39 GMT	5100 Holmes St, Kansas City, United States	
+`Report Service Called		29 Jul 2014 20:15:39 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:16:48 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:16:48 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:16:51 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:16:52 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:16:56 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:16:56 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:16:59 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:16:59 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:17:04 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:17:04 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:17:07 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:17:07 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:17:09 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:17:10 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:17:12 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:17:12 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:17:14 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:17:14 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:17:15 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:17:15 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:17:24 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:17:25 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:17:30 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:17:31 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:17:33 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:17:33 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:17:37 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:17:37 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:18:07 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:18:08 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:18:11 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:18:12 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:18:17 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:18:17 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:18:22 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:18:22 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:18:27 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:18:27 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:18:29 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:18:30 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:18:32 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:18:32 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:18:36 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:18:36 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:18:38 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:18:38 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:18:44 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:18:45 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:18:46 GMT	5100 Holmes St, Kansas City, United States	
+`Report Service Called		29 Jul 2014 20:18:46 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:18:49 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:18:52 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:18:54 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:18:54 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:18:58 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:18:58 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:19:04 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:19:04 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:19:08 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:19:08 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:19:13 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:19:13 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:19:17 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:19:17 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:19:18 GMT	5100 Holmes St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 20:19:19 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:19:20 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:19:20 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:19:24 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:19:24 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 20:19:38 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 20:19:38 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:19:49 GMT	5100 Holmes St, Kansas City, United States	
+2048 game starts	29 Jul 2014 20:19:50 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:19:52 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:19:56 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:20:00 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:20:05 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:20:11 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:20:18 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:20:22 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 20:20:26 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 20:20:27 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:20:45 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:20:48 GMT	5100 Holmes St, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 20:20:48 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:20:50 GMT	5100 Holmes St, Kansas City, United States	
+Games Service End Called		29 Jul 2014 20:20:50 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:20:51 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:20:52 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 20:20:52 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:20:56 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:20:57 GMT	5100 Holmes St, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 20:20:57 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:21:00 GMT	5100 Holmes St, Kansas City, United States	
+Games Service End Called		29 Jul 2014 20:21:00 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 20:21:02 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 20:21:02 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 20:21:05 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:21:11 GMT	5100 Holmes St, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 20:21:11 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:21:23 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:21:26 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:21:28 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 20:21:31 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:21:35 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:21:39 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:21:42 GMT	5100 Holmes St, Kansas City, United States	
+The Got2Run Game Starts 	29 Jul 2014 20:21:43 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:21:46 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:21:49 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:21:51 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:21:53 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:21:57 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:22:00 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:22:05 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:22:07 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:22:11 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:22:13 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:22:15 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:22:18 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:22:20 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 20:22:22 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:22:25 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:22:29 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:22:31 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:22:34 GMT	5100 Holmes St, Kansas City, United States	
+The Got2Run Ends 	29 Jul 2014 20:22:34 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:22:37 GMT	5100 Holmes St, Kansas City, United States	
+2048 game starts	29 Jul 2014 20:22:37 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:22:41 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:22:43 GMT	5100 Holmes St, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 20:22:44 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:22:46 GMT	5100 Holmes St, Kansas City, United States	
+Games Service End Called		29 Jul 2014 20:22:46 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:22:52 GMT	5100 Holmes St, Kansas City, United States	
+`Report Service Called		29 Jul 2014 20:22:52 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:22:59 GMT	5100 Holmes St, Kansas City, United States	
+game		29 Jul 2014 20:23:12 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:23:14 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:23:18 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:23:21 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:23:22 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:23:24 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:23:29 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:23:32 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:23:34 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:23:35 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 20:23:38 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:23:40 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:23:42 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:23:46 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:23:50 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:23:54 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:23:59 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:24:02 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:24:09 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:24:14 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:24:18 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:24:22 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:24:24 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:24:25 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:31:16 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:31:16 GMT	5100 Holmes St, Kansas City, United States	
+exit		29 Jul 2014 20:31:25 GMT	5100 Holmes St, Kansas City, United States	
+`Report Service Called		29 Jul 2014 20:31:25 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:31:27 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:31:33 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:31:37 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:31:37 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:31:38 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:31:39 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:31:44 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:31:45 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:31:48 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:31:48 GMT	5100 Holmes St, Kansas City, United States	
+thirsty		29 Jul 2014 20:31:50 GMT	5100 Holmes St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 20:31:51 GMT	5100 Holmes St, Kansas City, United States	
+emergency		29 Jul 2014 20:31:59 GMT	5100 Holmes St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 20:31:59 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 20:35:48 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 20:35:52 GMT	5100 Holmes St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 20:36:41 GMT	5100 Holmes St, Kansas City, United States	
+hungry		29 Jul 2014 21:47:45 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 21:47:45 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 21:47:47 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 21:47:47 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:47:50 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:47:50 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:48:01 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:01 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:48:11 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:11 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:48:14 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:15 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:48:16 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:16 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:48:18 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:19 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:48:29 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:29 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:48:31 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:31 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:48:32 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:33 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:48:35 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:35 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:48:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:48:56 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:48:56 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:49:03 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:49:04 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:49:06 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:49:06 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:49:09 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:49:09 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:49:13 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:49:14 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:49:17 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:49:17 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:49:18 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:49:18 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 21:51:07 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:51:15 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:51:16 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:51:16 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:51:24 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:51:24 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:51:25 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:51:33 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 21:51:36 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:51:37 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:51:39 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:51:41 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:51:43 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:51:45 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:51:47 GMT	31 E 52nd St, Kansas City, United States	
+thirsty		29 Jul 2014 21:51:48 GMT	31 E 52nd St, Kansas City, United States	
+thirsty		29 Jul 2014 21:54:48 GMT	31 E 52nd St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:54:48 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 21:55:54 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 21:55:54 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:55:57 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:55:58 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:01 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:01 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:04 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:04 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:05 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:06 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:56:09 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:56:10 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:11 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:11 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:14 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:14 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:17 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:17 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:19 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:19 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 21:56:22 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 21:56:23 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:26 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:27 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:56:28 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:56:28 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:56:30 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:56:30 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:56:39 GMT	5100 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:56:39 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 21:56:49 GMT	5100 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 21:56:49 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:56:53 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:56:53 GMT	31 E 52nd St, Kansas City, United States	
+hungry		29 Jul 2014 21:56:56 GMT	31 E 52nd St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 21:56:56 GMT	31 E 52nd St, Kansas City, United States	
+thirsty		29 Jul 2014 21:56:59 GMT	31 E 52nd St, Kansas City, United States	
+Thirsty Alert Service Called		29 Jul 2014 21:56:59 GMT	31 E 52nd St, Kansas City, United States	
+hungry		29 Jul 2014 21:57:03 GMT	31 E 52nd St, Kansas City, United States	
+Hungry Alert Service Called		29 Jul 2014 21:57:03 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:57:05 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:57:06 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:57:09 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:57:09 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:57:12 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:57:12 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:57:15 GMT	31 E 52nd St, Kansas City, United States	
+Emergency Alert Service Called		29 Jul 2014 21:57:15 GMT	31 E 52nd St, Kansas City, United States	
+game		29 Jul 2014 21:57:17 GMT	31 E 52nd St, Kansas City, United States	
+`Games Service Called		29 Jul 2014 21:57:18 GMT	31 E 52nd St, Kansas City, United States	
+emergency		29 Jul 2014 21:57:26 GMT	5100 Rockhill Rd, Kansas City, United States	
+2048 game starts	29 Jul 2014 21:57:26 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:57:31 GMT	5100 Rockhill Rd, Kansas City, United States	
+emergency		29 Jul 2014 21:57:35 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 21:57:37 GMT	5100 Rockhill Rd, Kansas City, United States	
+The 2048 Game Ends 	29 Jul 2014 21:57:38 GMT	5100 Rockhill Rd, Kansas City, United States	
+thirsty		29 Jul 2014 21:57:42 GMT	5100 Rockhill Rd, Kansas City, United States	
+The Got2run game starts	29 Jul 2014 21:57:42 GMT	5100 Rockhill Rd, Kansas City, United States	
+exit		29 Jul 2014 21:57:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+The Got2Run Ends 	29 Jul 2014 21:57:46 GMT	5100 Rockhill Rd, Kansas City, United States	
+hungry		29 Jul 2014 21:57:51 GMT	5100 Rockhill Rd, Kansas City, United States	
+`Games Service Called		1 Aug 2014 16:09:39 GMT	209 Brush Creek Blvd, Kansas City, United States	
+hungry		1 Aug 2014 18:32:53 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		1 Aug 2014 18:32:54 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:33:17 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		1 Aug 2014 18:33:17 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:33:21 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		1 Aug 2014 18:33:21 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:33:31 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		1 Aug 2014 18:33:31 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:33:33 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		1 Aug 2014 18:33:34 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:33:35 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		1 Aug 2014 18:33:35 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:33:40 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		1 Aug 2014 18:33:40 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+game		1 Aug 2014 18:33:43 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+`Games Service Called		1 Aug 2014 18:33:44 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:33:48 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:33:50 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:33:53 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+game		1 Aug 2014 18:33:55 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:33:59 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+2048 game starts	1 Aug 2014 18:34:00 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:34:03 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:34:08 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+game		1 Aug 2014 18:34:12 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:34:15 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:34:21 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:34:24 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:34:28 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+exit		1 Aug 2014 18:34:30 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+The 2048 Game Ends 	1 Aug 2014 18:34:30 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:34:35 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+The Got2run game starts	1 Aug 2014 18:34:35 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:34:39 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+The Got2Run Game Starts 	1 Aug 2014 18:34:40 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:34:44 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:34:47 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:34:50 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:34:53 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:34:56 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:34:59 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+game		1 Aug 2014 18:35:01 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:35:06 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:35:08 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:35:12 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:35:14 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+exit		1 Aug 2014 18:35:16 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:35:20 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:35:25 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:35:28 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+exit		1 Aug 2014 18:35:31 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:35:34 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:35:42 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:35:45 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:35:46 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+exit		1 Aug 2014 18:35:48 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+The Got2Run Ends 	1 Aug 2014 18:35:48 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+exit		1 Aug 2014 18:35:50 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Games Service End Called		1 Aug 2014 18:35:50 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:35:53 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Emergency Alert Service Called		1 Aug 2014 18:35:54 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+exit		1 Aug 2014 18:35:56 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+`Report Service Called		1 Aug 2014 18:35:57 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:36:03 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 18:36:05 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 18:36:09 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:36:13 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:36:15 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 18:36:22 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+`Games Service Called		1 Aug 2014 19:14:30 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:15:09 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Thirsty Alert Service Called		1 Aug 2014 19:15:09 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 19:15:11 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+Hungry Alert Service Called		1 Aug 2014 19:15:11 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+`Games Service Called		1 Aug 2014 19:15:12 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:15:17 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+The Got2run game starts	1 Aug 2014 19:15:17 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:15:19 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:15:21 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:15:34 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:15:37 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:15:39 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:15:42 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:15:44 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:15:48 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:15:54 GMT	800-898 E 52nd St, Kansas City, United States	
+thirsty		1 Aug 2014 19:15:57 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:16:02 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:16:08 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:16:09 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:16:11 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+hungry		1 Aug 2014 19:16:14 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+The Got2Run Game Starts 	1 Aug 2014 19:16:14 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:16:24 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:16:27 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:16:30 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:16:32 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+game		1 Aug 2014 19:16:33 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:16:36 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:16:51 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+emergency		1 Aug 2014 19:16:53 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+thirsty		1 Aug 2014 19:16:54 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+`Games Service Called		1 Aug 2014 20:01:09 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
+The Got2Run Game Starts 	1 Aug 2014 20:01:12 GMT	5164-5198 Rockhill Rd, Kansas City, United States	
